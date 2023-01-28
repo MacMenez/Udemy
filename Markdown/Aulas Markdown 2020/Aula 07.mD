@@ -1,0 +1,15 @@
+# LINKS
+
+# LINKS 1
+
+[TEXTO](URL)
+
+# LINKS 2
+
+[TEXTO](URLS "TEXTO ALTERNATIVO")
+
+# LINKS 3
+
+[TEXTO][site-url]
+
+[SITE-URL]: google.com
